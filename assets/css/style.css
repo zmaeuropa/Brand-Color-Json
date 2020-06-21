@@ -1,0 +1,142 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    /* Margin bottom by footer height */
+    margin-bottom: 80px;
+  }
+  footer {
+    background-color: #222;
+    color: #fff;
+    font-size: 14px;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 999;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+footer i {
+    color: red;
+}
+
+footer a {
+    color: #3c97bf;
+    text-decoration: none;
+}
+  
+ 
+  /* Custom page CSS
+  -------------------------------------------------- */
+  
+  body > .container {
+    padding: 80px 15px 0;
+  }
+  
+  
+  
+  code {
+    font-size: 80%;
+  }
+
+  i.fa-copy {
+    cursor: pointer;
+}
+
+/* card-columns custom bootstrap */
+
+@media (min-width: 576px) {
+  .card-columns {
+      column-count: 2;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-columns {
+      column-count: 3;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-columns {
+      column-count: 4;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-columns {
+      column-count: 5;
+  }
+}
+
+#brands{
+  color: #fff;
+}
+.card-body{
+    color: #000;
+    font: 500;
+    border-radius: 0 12.5px 12.5px 0;
+}
+.wrapper {
+  background: linear-gradient(50deg, #343A40 50%, #D6D6D8 0);
+  width: 100%;
+}
+
+.wrapper p {
+  font-size: 3em;
+  color: transparent;
+  background: linear-gradient(50deg, #D6D6D8 50%, #343A40 0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 5em;
+}
+
+.search1{
+  background: #756F6F;
+  width: 5em;
+  height: 0.5em;
+}
+.search2{
+  background: #A7A7A5;
+  width: 5em;
+  height: 0.5em;
+}
+.search3{
+  background: #D6D6D8;
+  width: 5em;
+  height: 0.5em;
+}
+
+
+.form-control {
+  padding-left: 2.375rem;
+}
+
+.form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #343A40;
+}
+img.logo{
+  width: 6%;
+  height: 6%;
+}
+
+.footer i{
+color: #A7A7A5;
+}

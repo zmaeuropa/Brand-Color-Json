@@ -1,0 +1,126 @@
+[
+    {   
+        "name":"Acer",
+        "couleur":"#83B81A"
+
+    },
+
+    {
+        "name":"Airbnb",
+        "couleur":"#FF585D"
+    },
+
+    {
+        "name":"Amazon",
+        "couleur":"#FF9900"
+    },
+
+    {   
+        "name":"Android",
+        "couleur":"#78C257"
+
+    },
+
+    {
+        "name":"Canon",
+        "couleur":"#BF1920"
+        
+    },
+
+    {
+        "name":"Bootstrap",
+        "couleur":"#563d7c"
+    },
+
+    {
+        "name":"Discord",
+        "couleur":"#7289DA"
+    },
+
+    {
+        "name":"Facebook",
+        "couleur":"#3B5998"
+    },
+
+    {
+        "name":"Messenger",
+        "couleur":"linear-gradient(180deg, #00C6FF 3%,#0078ff 97%)"
+    },
+
+    {
+        "name":"Hulu",
+        "couleur":"#3DBB3D"
+    },
+
+    {
+        "name":"Instagram",
+        "couleur":"linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)"
+    },
+
+    {
+        "name":"Linkedin",
+        "couleur":"#0077B5"
+    },
+
+    {
+        "name":"Nikon",
+        "couleur":"#FFE100"
+    },
+
+    {
+        "name":"Pinterest",
+        "couleur":"#BD081C"
+    },
+
+    {
+        "name":"Skype",
+        "couleur":"#00AFF0"
+    },
+
+    {
+        "name":"Snapchat",
+        "couleur":"#FFFC00"
+    },
+
+    {
+        "name":"Spotify",
+        "couleur":"#1DB954"
+    },
+
+    {   
+        "name":"Tiktok",
+        "couleur":"linear-gradient(45deg,#00F2EA,#fff,#FF004F)"
+
+    },
+
+    {
+        "name":"Twitch",
+        "couleur":"#6441A4"
+    },
+
+    {
+        "name":"Twitter",
+        "couleur":"#1DA1F2"
+    },
+
+    {
+        "name":"Viber",
+        "couleur":"#665CAC"
+    },
+
+    {
+        "name":"Yahoo",
+        "couleur":"#410093"
+    },
+
+    {
+        "name":"Youtube",
+        "couleur":"#ff0000"
+    },
+
+    {
+        "name":"Xbox",
+        "couleur":"#107C10"
+    }
+
+]
